@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KLS7-TS6611
+D Switch Tact Switch Series KLS7-TS6611 6x6 Tact Switch Series ELECTRICAL 1.Rating: 50mA 12VDC 2.Contact Resistance : 50m  m ax(initial) 3.Insulation Resistance: 100M (minDC 2 50V) 4.Dielectric Strength : AC250V(50/60Hz for 1minute) 5.Electrically Life: 100000cycles 6.Environment temperature:-20C~+70C 7.Operating Force: 180/250(+/-30gf) 8.Seal temperature:260C~ 280C H 1.5 1.7 1.9 ORDER INFO...
+K
+F https://www.rcscomponents.com/datasheets/kls7-ts6611-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

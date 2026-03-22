@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RP2350_60QFN_minimal")(type "KiCad")(uri "${KIPRJMOD}/RP2350_60QFN_minimal.pretty")(options "")(descr ""))
+  (lib (name "bmp_fps")(type "KiCad")(uri "${KIPRJMOD}/addons/BMP390/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "imu_fps")(type "KiCad")(uri "${KIPRJMOD}/addons/ul_LSM6DSO/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "TS6611")(type "KiCad")(uri "${KIPRJMOD}/addons/TS6611")(options "")(descr ""))
+)
