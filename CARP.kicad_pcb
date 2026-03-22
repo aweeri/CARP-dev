@@ -3,7 +3,7 @@
 	(generator "pcbnew")
 	(generator_version "9.0")
 	(general
-		(thickness 1.6)
+		(thickness 1.6062)
 		(legacy_teardrops no)
 	)
 	(paper "A1")
@@ -52,29 +52,29 @@
 			)
 			(layer "dielectric 1"
 				(type "prepreg")
-				(thickness 0.1)
+				(thickness 0.2104)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
 			)
 			(layer "In1.Cu"
 				(type "copper")
-				(thickness 0.035)
+				(thickness 0.0152)
 			)
 			(layer "dielectric 2"
 				(type "core")
-				(thickness 1.24)
+				(thickness 1.065)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
 			)
 			(layer "In2.Cu"
 				(type "copper")
-				(thickness 0.035)
+				(thickness 0.0152)
 			)
 			(layer "dielectric 3"
 				(type "prepreg")
-				(thickness 0.1)
+				(thickness 0.2104)
 				(material "FR4")
 				(epsilon_r 4.5)
 				(loss_tangent 0.02)
@@ -94,7 +94,7 @@
 				(type "Bottom Silk Screen")
 			)
 			(copper_finish "None")
-			(dielectric_constraints no)
+			(dielectric_constraints yes)
 		)
 		(pad_to_mask_clearance 0.051)
 		(solder_mask_min_width 0.09)
@@ -20066,17 +20066,6 @@
 		)
 	)
 	(gr_rect
-		(start 39 37)
-		(end 459 334)
-		(stroke
-			(width 0.15)
-			(type default)
-		)
-		(fill no)
-		(layer "Dwgs.User")
-		(uuid "d5cede10-7774-4855-bba3-858ef26be801")
-	)
-	(gr_rect
 		(start 469 37)
 		(end 766 247)
 		(stroke
@@ -20086,6 +20075,17 @@
 		(fill no)
 		(layer "Dwgs.User")
 		(uuid "b4950908-9105-469b-a54a-80bca3e3b5f9")
+	)
+	(gr_rect
+		(start 39 37)
+		(end 459 334)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "Dwgs.User")
+		(uuid "d5cede10-7774-4855-bba3-858ef26be801")
 	)
 	(gr_text "Main Sheet"
 		(at 44 42 0)
