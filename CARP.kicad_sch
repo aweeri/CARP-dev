@@ -9173,16 +9173,6 @@
 		)
 		(uuid "4e3bbf3a-4a52-4e18-8c2f-1c553750609c")
 	)
-	(label "GPIO5"
-		(at 386.08 224.79 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "537384f7-26cd-4e0e-bddc-47e55ea37cdf")
-	)
 	(label "QSPI_SD0"
 		(at 162.56 147.32 0)
 		(effects
@@ -9243,6 +9233,16 @@
 		)
 		(uuid "5a7291c4-75ad-4daf-9829-37581971c580")
 	)
+	(label "GPIO5"
+		(at 386.08 219.71 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5c4b2067-638d-491d-8c79-d92c47fccb16")
+	)
 	(label "GPIO11"
 		(at 255.27 160.02 180)
 		(effects
@@ -9272,6 +9272,16 @@
 			(justify right bottom)
 		)
 		(uuid "7230e557-5e70-4a7d-84bf-ce9c64251954")
+	)
+	(label "GPIO7"
+		(at 386.08 224.79 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "732a04af-d821-48d0-b525-46eede04b78d")
 	)
 	(label "SWCLK"
 		(at 345.44 91.44 0)
@@ -9352,16 +9362,6 @@
 			(justify right bottom)
 		)
 		(uuid "8373f304-ecaa-4bac-bcc9-f746371e721a")
-	)
-	(label "GPIO7"
-		(at 386.08 219.71 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "876a631a-9daf-4f1b-9156-01b554130f52")
 	)
 	(label "GPIO2 SDA"
 		(at 255.27 137.16 180)
@@ -12776,7 +12776,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_SMD:SW_SPST_PTS645Sx43SMTR92"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_Vertical_Wuerth_434133025816"
 			(at 153.67 172.72 0)
 			(effects
 				(font
@@ -13589,7 +13589,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 335.28 129.8448 0)
 			(effects
 				(font
@@ -14805,7 +14805,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 314.198 83.82 90)
 			(effects
 				(font
@@ -15528,7 +15528,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PCM_Resistor_SMD_AKL:R_0603_1608Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 315.722 83.82 90)
 			(effects
 				(font
