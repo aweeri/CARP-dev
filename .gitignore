@@ -3,3 +3,5 @@ CARP-backups/
 *.lck
 _autosave-*
 _autosave.*
+
+\#auto_saved_files#
