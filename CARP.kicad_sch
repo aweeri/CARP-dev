@@ -5333,6 +5333,16 @@
 		)
 		(uuid "a9b64aee-2190-4325-8b79-8921e5fd0b8d")
 	)
+	(text "Default address: 0x76\nAlternative address: 0x77"
+		(exclude_from_sim no)
+		(at 297.688 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ad7f5793-57b9-4bbf-87c2-d4a4da283b82")
+	)
 	(text "BMP390 [I2C]"
 		(exclude_from_sim no)
 		(at 337.566 172.974 0)

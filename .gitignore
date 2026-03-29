@@ -5,3 +5,5 @@ _autosave-*
 _autosave.*
 
 \#auto_saved_files#
+
+production/
